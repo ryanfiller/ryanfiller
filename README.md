@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="name.svg" width="800" height="400" alt="Ryan Filler, Front-End Developer" />
 
 <!--
 **ryanfiller/ryanfiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I _definitely_ stole this idea from [Sindre Sorhus](https://github.com/sindresorhus/css-in-readme-like-wat).
