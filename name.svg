@@ -92,7 +92,12 @@
         }
 
         h1, h2 {
-          animation: pulse 2.5s cubic-bezier(.20,.40,.80,.60) infinite;
+          animation: pulse 2s cubic-bezier(.20,.40,.80,.60) infinite;
+        }
+
+        h2 {
+          animation-direction: reverse;
+          animation-duration: 2.5s;
         }
 
         @media (prefers-color-scheme: dark) {
