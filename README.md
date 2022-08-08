@@ -25,7 +25,7 @@
   </li>
   <li>
     <h2>
-      Check out my <a href="https://ryanfiller.com?github">website.</a>
+      Check out my <a href="https://ryanfiller.com?link=github">website.</a>
     </h2>
   </li>
   <li>
